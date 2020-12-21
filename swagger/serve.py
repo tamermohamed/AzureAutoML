@@ -37,4 +37,4 @@ if __name__ == "__main__":
     else:
         port = 8000
 
-    test(CORSRequestHandler, HTTPServer, port=port)
+    test(CORSRequestHandler, HTTPServer, port=8000)
