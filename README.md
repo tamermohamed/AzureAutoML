@@ -46,6 +46,8 @@ After the model is running and active we can consume the model using the endpoin
 
 ![](screen_shots/Swagger.png)
 
+![](screen_shots/endpoint.png)
+
 5. Test The Performance
 
 We can test the performance of the service and make sure it has a good response time and it can work soomthly in production on heavy usage using Apache Bechmarking tool
