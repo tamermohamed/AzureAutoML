@@ -101,3 +101,13 @@ after the run has been completed we can use the SDK to publish the service
 ![](screen_shots/pipline/endpointpipline.png)
 
 ![](screen_shots/pipline/restfulservice.png)
+
+## Standout Suggestions
+
+As we have noticed in the project that we didn't explore the dataset and analyze it, we should first study the dataset to make the required cleansing, find if we can making feature engineering, find the co-correlated colums, remove unnecessary columns that does not have impact on the prediction
+
+another thing we can look at in the data is the data drift that we need to handle if the relation between input and ouput which will affect the behaviuor of the model
+
+For we service logging, in the production we need to track the behaviuor of service and we will not track manually we need to add notification with the logger to send notification to the team if there is a seriuos issue in the service
+
+we can make a dashboard for the service usage and the logger and get relevant information about the service
