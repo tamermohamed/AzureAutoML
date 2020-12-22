@@ -56,7 +56,7 @@ We can test the performance of the service and make sure it has a good response 
 
 ## Screen Recording
 
-Here is a short recording for the Automl Experiment, you can watch by clicking [here](https://www.youtube.com/watch?v=6XTS1KLii2k&feature=youtu.be)
+Here is a short recording for the Automl Experiment, you can watch by clicking [here](https://youtu.be/GKrMMWFxeNw)
 
 
 ## AutML Using Azure Python SDK
